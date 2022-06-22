@@ -29,5 +29,5 @@ pyplot.xlabel('Годы')
 pyplot.ylabel('Температура/Активность Солнца')
 pyplot.legend(loc='upper left')
 
-# Отображаем график
+# Отображаем график просто
 pyplot.show()
